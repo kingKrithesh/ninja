@@ -1,10 +1,9 @@
 {
-    
-    "name": "Krithesh",
+  "name": "Krithesh",
 
-"favoriteNumber": 10,
+  "favoriteNumber": 10,
 
-"isProgramer": true,
+  "isProgramer": true,
 
-"hobbies" ["fish keeper", "gardener"],
+  "hobbies" ["fish keeper", "gardener"],
 }
